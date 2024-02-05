@@ -1,2 +1,4 @@
-# OpenGL
-![image](https://user-images.githubusercontent.com/94697684/218106807-97b47359-6cb5-4451-bd2f-fb668794df5c.png)
+# Пример программы:
+
+![image](https://github.com/krissstyu02/OpenGL/assets/94697684/6f61aa2d-3b7d-41a4-a8fd-29ad11f3aa28)
+
